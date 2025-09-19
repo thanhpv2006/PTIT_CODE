@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1756489742 source:d:\clb\dsa\w5 - bs & tp\b\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
